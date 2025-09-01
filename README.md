@@ -1,5 +1,9 @@
 # BiologicalSignalRecorder
 Attempt at creating low cost DIY biological signal recorder
+
+At the curent state is able to detect and visualise electrical signals from heart (EKG) and muscles surrounding the eyes (EOG)
+
+
 <img width="788" height="498" alt="image" src="https://github.com/user-attachments/assets/ea6221c9-e8a5-4373-9442-53007c93793b" />
 
 
